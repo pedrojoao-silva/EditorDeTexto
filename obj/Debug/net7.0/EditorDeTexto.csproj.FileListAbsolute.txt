@@ -1,0 +1,14 @@
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.exe
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.deps.json
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.runtimeconfig.json
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.dll
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.pdb
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfoInputs.cache
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfo.cs
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.dll
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\refint\EditorDeTexto.dll
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.pdb
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.genruntimeconfig.cache
+C:\Users\joao.silva\OneDrive - Maqcampo Soluções Agrícolas\Documentos\EditorDeTexto\obj\Debug\net7.0\ref\EditorDeTexto.dll
